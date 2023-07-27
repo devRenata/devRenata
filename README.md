@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hey! I'm Renata 👋
 
-<!--
-**developerRenata/developerRenata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A coding student by day ☀️ and AI tech lover by night 🌙
 
-Here are some ideas to get you started:
+### Technologies and Skills 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block">
+    <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img align="center" alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+</div>
+
+### Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developerRenata&layout=compact&theme=transparent&title_color=e6edf3)
+
+### Contacts
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](renata.rocha.polachini@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/renata-rocha-94879b232)
