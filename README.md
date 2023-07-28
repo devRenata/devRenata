@@ -14,7 +14,7 @@ A coding student by day ☀️ and AI tech lover by night 🌙
 
 ### Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devrRenata&layout=compact&theme=transparent&title_color=e6edf3)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devRenata&layout=compact&theme=transparent&title_color=e6edf3)
 
 ### Contacts
 
