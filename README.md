@@ -7,7 +7,7 @@ Oii! eu sou a Renata! uma desenvolvedora apaixonada por desenvolvimento mobile.
 - 📘 Atualmente cursando Sistemas de Informação na UFSM.
 - 💬 Estou em busca da minha primeira oportunidade de emprego.
 - 🌱 Estou aprendendo TDD, Arquitetura Limpa e padrões de projeto MVC, MVP e MVVM.
-- 📫 Entre em contato: [Linkedin](www.linkedin.com/in/devrenata).
+- 📫 Entre em contato: [Linkedin](https://www.linkedin.com/in/devrenata).
 
 ## Portfolio
 
