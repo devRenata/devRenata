@@ -1,17 +1,34 @@
-## Hey! I'm Renata 👋
+<code>print("Bem-vindo ao meu github! 😃")</code>
 
-A coding student by day ☀️ and AI tech lover by night 🌙
+## Sobre mim
 
-### Technologies and Skills 💻
+Oii! eu sou a Renata! uma desenvolvedora apaixonada por desenvolvimento mobile.
 
-<div style="display: inline_block">
-    <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img align="center" alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-</div>
+- 📘 Atualmente cursando Sistemas de Informação na UFSM.
+- 💬 Estou em busca da minha primeira oportunidade de emprego.
+- 🌱 Estou aprendendo TDD, Arquitetura Limpa e padrões de projeto MVC, MVP e MVVM.
+- 📫 Entre em contato: [Linkedin](www.linkedin.com/in/devrenata).
 
-### Languages
+## Portfolio
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devRenata&layout=compact&theme=transparent&title_color=e6edf3)
+- [Aplicativo Pomodoro]()
+
+## Skills
+
+  <div style="flex-basis: 48%;">
+    <h3>Linguagens de Programação</h3>
+    <img align="center" alt="Dart" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dart/dart-original.svg">
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  </div>
+  
+  <div style="flex-basis: 48%;">
+    <h3>Frameworks e Ferramentas</h3>
+    <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/flutter/flutter-original.svg">
+    <img align="center" alt="Android-Studio" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/androidstudio/androidstudio-original.svg">
+    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    <img align="center" alt="sqLite" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sqlite/sqlite-original.svg">
+    <img align="center" alt="mySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg">
+    <img align="center" alt="Ubuntu" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/ubuntu/ubuntu-original.svg">
+    <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
+  </div>
