@@ -14,12 +14,8 @@ Oii! eu sou a Renata! uma desenvolvedora apaixonada por desenvolvimento mobile.
 
 ## Skills
 
-  <div style="flex-basis: 48%;">
-    <h3>Linguagens de Programação</h3>
-    <img align="center" alt="Dart" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dart/dart-original.svg">
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  </div>
-  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devRenata&layout=compact&bg_color=0d1117&text_color=e4e2e2&title_color=e6edf3&exclude_repo=devRenata&langs_count=6)
+
   <div style="flex-basis: 48%;">
     <h3>Frameworks e Ferramentas</h3>
     <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/flutter/flutter-original.svg">
