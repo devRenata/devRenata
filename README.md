@@ -2,15 +2,15 @@
 
 ## Sobre mim
 
-Oii! eu sou a Renata! uma desenvolvedora apaixonada por desenvolvimento mobile.
+Oii! eu sou a Renata! uma desenvolvedora apaixonada por computação!
 
 - 📘 Atualmente cursando Sistemas de Informação na UFSM.
-- 🌱 Estou aprimorando minhas habilidades em Clean Code, Clean Architecture, TDD, DDD, SOLID e Design Patterns.
+- 🌱 Estou aprimorando minhas habilidades em Clean Architecture, DDD e Design Patterns.
 - 📫 Entre em contato: [Linkedin](https://www.linkedin.com/in/devrenata).
 
-## Portfolio
+<!--## Portfolio
 - [Aplicativo Astronomy](https://github.com/devRenata/AstronomyApp)
-- [Aplicativo Pomodoro](https://github.com/devRenata/PomodoroApp)
+- [Aplicativo Pomodoro](https://github.com/devRenata/PomodoroApp)-->
 
 ## Skills
 
